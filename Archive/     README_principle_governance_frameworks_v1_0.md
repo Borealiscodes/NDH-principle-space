@@ -165,3 +165,38 @@ Timestamp: 15 August 2026 — 16:35 IST
 
 ---
 
+---
+Artifact: Archived README — Principle Governance Frameworks (v1.0)
+Lane: NDH-PRINCIPLE-SPACE • Lineage Archive • Governance Altitude (Historical)
+
+Reason for Archival:
+  The repository was renamed to NDH-principle-space, shifting its identity
+  from governance altitude to principle altitude. The original README
+  describes governance practice layers, governance charters, protocols,
+  decision flows, and metaphor-to-governance translation. These no longer
+  represent the active altitude or membrane of the repository.
+
+Purpose of Archive:
+  Preserve the historical governance-altitude identity of the repository
+  without contaminating the current principle-altitude membrane. Maintain
+  lineage continuity and provide reference for future governance-blueprint
+  development.
+
+Anchors:
+  - Original README — Principle Governance Frameworks (v1.0)
+  - NDH-principle-space repository rename
+  - Principle Space, Ethos, Standards, Architecture directories
+  - Translation Governance Lineage (TGL)
+
+Non-Activation Clause:
+  This archived artifact does not activate governance engines, membranes,
+  lineage commitments, or altitude constructs. It is historical only.
+
+Version: v1.0 (Archived)
+Maintainer: Borealis S. Hedling
+Location: Dublin, Ireland
+Timestamp: 17 August 2026 — 15:18 IST
+---
+
+
+
